@@ -1,4 +1,4 @@
-Symbol  ,Series  ,Date  ,Prev Close  ,Open Price  ,High Price  ,Low Price  ,Last Price  ,Close Price  ,Average Price ,Total Traded Quantity  ,Turnover ₹  ,No. of Trades  ,Deliverable Qty  ,% Dly Qt to Traded Qty  
+Symbol,Series,Date,Prev Close,Open Price,High Price,Low Price,Last Price,Close Price,Average Price,Total Traded Quantity,Turnover ₹,No. of Trades,Deliverable Qty,% Dly Qt to Traded Qty
 ITC,EQ,05-Oct-2017,267.4,267.4,269.4,264.4,264.7,265.25,266.94,"69,37,298","1,85,18,48,907.50","80,123","47,33,884",68.24
 ITC,EQ,06-Oct-2017,265.25,265.8,267.5,264.65,266.4,266.15,265.97,"78,56,190","2,08,95,11,409.00","52,879","48,53,053",61.77
 ITC,EQ,09-Oct-2017,266.15,268.0,269.15,266.4,268.1,268.0,267.76,"60,88,623","1,63,02,67,498.70","43,287","43,03,630",70.68

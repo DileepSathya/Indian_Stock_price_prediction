@@ -1,4 +1,4 @@
-Symbol  ,Series  ,Date  ,Prev Close  ,Open Price  ,High Price  ,Low Price  ,Last Price  ,Close Price  ,Average Price ,Total Traded Quantity  ,Turnover ₹  ,No. of Trades  ,Deliverable Qty  ,% Dly Qt to Traded Qty  
+Symbol,Series,Date,Prev Close,Open Price,High Price,Low Price,Last Price,Close Price,Average Price,Total Traded Quantity,Turnover ₹,No. of Trades,Deliverable Qty,% Dly Qt to Traded Qty
 DLF,EQ,07-Oct-2019,147.35,148.0,148.05,142.75,143.2,143.9,145.48,"63,01,348","91,67,01,449.60","54,764","13,29,379",21.1
 DLF,EQ,09-Oct-2019,143.9,143.9,149.75,138.35,147.15,147.75,143.21,"1,55,40,451","2,22,55,67,368.05","1,03,039","37,92,177",24.4
 DLF,EQ,10-Oct-2019,147.75,146.5,146.9,139.5,142.4,142.45,141.58,"1,23,93,751","1,75,47,49,734.85","1,00,118","15,65,357",12.63

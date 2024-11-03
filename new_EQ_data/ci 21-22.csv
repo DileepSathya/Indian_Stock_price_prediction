@@ -1,4 +1,4 @@
-Symbol  ,Series  ,Date  ,Prev Close  ,Open Price  ,High Price  ,Low Price  ,Last Price  ,Close Price  ,Average Price ,Total Traded Quantity  ,Turnover ₹  ,No. of Trades  ,Deliverable Qty  ,% Dly Qt to Traded Qty  
+Symbol,Series,Date,Prev Close,Open Price,High Price,Low Price,Last Price,Close Price,Average Price,Total Traded Quantity,Turnover ₹,No. of Trades,Deliverable Qty,% Dly Qt to Traded Qty
 COALINDIA,EQ,05-Oct-2021,189.95,191.0,198.9,190.4,197.95,197.95,195.57,"4,23,59,592","8,28,42,92,323.35","2,38,860","1,07,60,067",25.40
 COALINDIA,EQ,06-Oct-2021,197.95,200.0,203.8,191.7,192.15,192.85,197.01,"4,19,26,821","8,26,02,08,849.10","2,40,942","1,09,11,304",26.02
 COALINDIA,EQ,07-Oct-2021,192.85,194.75,194.95,189.25,191.0,190.7,191.45,"1,65,17,664","3,16,23,51,122.45","99,100","50,10,088",30.33

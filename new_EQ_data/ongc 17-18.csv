@@ -1,4 +1,4 @@
-Symbol  ,Series  ,Date  ,Prev Close  ,Open Price  ,High Price  ,Low Price  ,Last Price  ,Close Price  ,Average Price ,Total Traded Quantity  ,Turnover ₹  ,No. of Trades  ,Deliverable Qty  ,% Dly Qt to Traded Qty  
+Symbol,Series,Date,Prev Close,Open Price,High Price,Low Price,Last Price,Close Price,Average Price,Total Traded Quantity,Turnover ₹,No. of Trades,Deliverable Qty,% Dly Qt to Traded Qty
 ONGC,EQ,05-Oct-2017,172.1,172.7,172.7,170.8,171.5,171.2,171.38,"37,67,993","64,57,44,771.65","35,943","23,62,991",62.71
 ONGC,EQ,06-Oct-2017,171.2,171.8,174.7,171.5,173.8,173.85,173.36,"61,44,349","1,06,52,00,632.15","48,167","35,73,975",58.17
 ONGC,EQ,09-Oct-2017,173.85,173.4,173.45,170.4,170.8,170.7,171.38,"29,81,922","51,10,48,016.15","18,241","16,06,519",53.88

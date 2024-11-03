@@ -1,4 +1,4 @@
-Symbol  ,Series  ,Date  ,Prev Close  ,Open Price  ,High Price  ,Low Price  ,Last Price  ,Close Price  ,Average Price ,Total Traded Quantity  ,Turnover ₹  ,No. of Trades  ,Deliverable Qty  ,% Dly Qt to Traded Qty  
+Symbol,Series,Date,Prev Close,Open Price,High Price,Low Price,Last Price,Close Price,Average Price,Total Traded Quantity,Turnover ₹,No. of Trades,Deliverable Qty,% Dly Qt to Traded Qty
 BPCL,EQ,07-Oct-2013,341.45,341.45,356.0,336.0,355.4,352.85,347.33,"24,71,874","85,85,58,288.75","70,883","12,27,275",49.65
 BPCL,EQ,08-Oct-2013,352.85,352.85,356.7,340.7,341.45,341.7,347.49,"14,03,918","48,78,45,420.15","33,153","5,10,828",36.39
 BPCL,EQ,09-Oct-2013,341.7,339.8,347.4,338.75,339.65,340.25,342.17,"15,83,140","54,16,99,590.75","42,570","8,53,258",53.9

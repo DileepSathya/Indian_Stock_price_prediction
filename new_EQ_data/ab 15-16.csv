@@ -1,4 +1,4 @@
-Symbol  ,Series  ,Date  ,Prev Close  ,Open Price  ,High Price  ,Low Price  ,Last Price  ,Close Price  ,Average Price ,Total Traded Quantity  ,Turnover ₹  ,No. of Trades  ,Deliverable Qty  ,% Dly Qt to Traded Qty  
+Symbol,Series,Date,Prev Close,Open Price,High Price,Low Price,Last Price,Close Price,Average Price,Total Traded Quantity,Turnover ₹,No. of Trades,Deliverable Qty,% Dly Qt to Traded Qty
 AXISBANK,EQ,06-Oct-2015,513.25,517.35,518.55,505.0,506.65,506.4,511.53,"82,26,452","4,20,80,94,269.50","1,02,137","36,43,832",44.29
 AXISBANK,EQ,07-Oct-2015,506.4,503.25,509.8,495.0,498.4,496.8,501.87,"1,12,51,639","5,64,68,95,996.35","1,32,063","61,46,637",54.63
 AXISBANK,EQ,08-Oct-2015,496.8,500.0,500.45,484.2,492.15,491.5,490.37,"99,41,551","4,87,49,96,030.75","1,57,504","49,32,637",49.62

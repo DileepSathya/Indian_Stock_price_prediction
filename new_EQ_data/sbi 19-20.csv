@@ -1,4 +1,4 @@
-Symbol  ,Series  ,Date  ,Prev Close  ,Open Price  ,High Price  ,Low Price  ,Last Price  ,Close Price  ,Average Price ,Total Traded Quantity  ,Turnover ₹  ,No. of Trades  ,Deliverable Qty  ,% Dly Qt to Traded Qty  
+Symbol,Series,Date,Prev Close,Open Price,High Price,Low Price,Last Price,Close Price,Average Price,Total Traded Quantity,Turnover ₹,No. of Trades,Deliverable Qty,% Dly Qt to Traded Qty
 SBIN,EQ,07-Oct-2019,249.95,251.50,253.40,246.85,249.05,249.10,250.25,"3,91,60,623","9,79,98,56,793.90","2,86,725","74,71,211",19.08
 SBIN,EQ,09-Oct-2019,249.10,250.10,262.00,244.35,261.80,260.95,253.67,"6,03,28,507","15,30,33,89,995.65","4,19,848","1,43,14,803",23.73
 SBIN,EQ,10-Oct-2019,260.95,258.00,258.00,252.60,254.15,254.15,254.67,"3,75,77,511","9,56,99,75,851.25","2,35,851","73,79,501",19.64

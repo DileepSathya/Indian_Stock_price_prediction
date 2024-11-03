@@ -1,4 +1,4 @@
-Symbol  ,Series  ,Date  ,Prev Close  ,Open Price  ,High Price  ,Low Price  ,Last Price  ,Close Price  ,Average Price ,Total Traded Quantity  ,Turnover ₹  ,No. of Trades  ,Deliverable Qty  ,% Dly Qt to Traded Qty  
+Symbol,Series,Date,Prev Close,Open Price,High Price,Low Price,Last Price,Close Price,Average Price,Total Traded Quantity,Turnover ₹,No. of Trades,Deliverable Qty,% Dly Qt to Traded Qty
 CIPLA,EQ,07-Oct-2011,281.15,285.0,289.85,283.15,284.2,285.1,287.33,"10,48,259","30,11,94,476.60","23,368","6,91,042",65.92
 CIPLA,EQ,10-Oct-2011,285.1,285.0,288.65,280.8,282.3,282.55,283.87,"13,40,422","38,05,08,645.10","24,675","8,63,668",64.43
 CIPLA,EQ,11-Oct-2011,282.55,285.5,286.9,279.55,281.0,280.75,282.61,"13,64,283","38,55,63,618.20","31,442","8,82,957",64.72

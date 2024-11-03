@@ -1,4 +1,4 @@
-Symbol  ,Series  ,Date  ,Prev Close  ,Open Price  ,High Price  ,Low Price  ,Last Price  ,Close Price  ,Average Price ,Total Traded Quantity  ,Turnover ₹  ,No. of Trades  ,Deliverable Qty  ,% Dly Qt to Traded Qty  
+Symbol,Series,Date,Prev Close,Open Price,High Price,Low Price,Last Price,Close Price,Average Price,Total Traded Quantity,Turnover ₹,No. of Trades,Deliverable Qty,% Dly Qt to Traded Qty
 HCLTECH,EQ,09-Oct-2023,"1,237.70","1,236.00","1,266.65","1,231.15","1,249.30","1,249.60","1,254.97","34,30,211","4,30,48,12,960.15","1,33,837","13,96,410",40.71
 HCLTECH,EQ,10-Oct-2023,"1,249.60","1,255.55","1,264.75","1,248.20","1,260.05","1,261.80","1,257.63","15,32,394","1,92,71,91,227.75","1,12,722","8,90,540",58.11
 HCLTECH,EQ,11-Oct-2023,"1,261.80","1,266.00","1,274.45","1,241.00","1,241.00","1,245.60","1,259.09","21,86,131","2,75,25,26,426.15","1,12,606","13,30,250",60.85

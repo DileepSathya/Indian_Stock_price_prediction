@@ -1,4 +1,4 @@
-Symbol  ,Series  ,Date  ,Prev Close  ,Open Price  ,High Price  ,Low Price  ,Last Price  ,Close Price  ,Average Price ,Total Traded Quantity  ,Turnover ₹  ,No. of Trades  ,Deliverable Qty  ,% Dly Qt to Traded Qty  
+Symbol,Series,Date,Prev Close,Open Price,High Price,Low Price,Last Price,Close Price,Average Price,Total Traded Quantity,Turnover ₹,No. of Trades,Deliverable Qty,% Dly Qt to Traded Qty
 BERGEPAINT,EQ,05-Oct-2018,273.25,270.8,274.95,265.55,268.0,267.9,270.75,"8,46,114","22,90,84,499.45","14,683","4,43,431",52.41
 BERGEPAINT,EQ,08-Oct-2018,267.9,268.0,279.2,265.1,272.25,275.35,274.4,"8,07,183","22,14,92,356.10","23,386","2,45,602",30.43
 BERGEPAINT,EQ,09-Oct-2018,275.35,272.25,275.9,266.85,272.15,272.7,271.59,"7,91,150","21,48,69,689.25","10,444","4,05,030",51.2

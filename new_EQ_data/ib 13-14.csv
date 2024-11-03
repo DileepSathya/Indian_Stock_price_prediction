@@ -1,4 +1,4 @@
-Symbol  ,Series  ,Date  ,Prev Close  ,Open Price  ,High Price  ,Low Price  ,Last Price  ,Close Price  ,Average Price ,Total Traded Quantity  ,Turnover ₹  ,No. of Trades  ,Deliverable Qty  ,% Dly Qt to Traded Qty  
+Symbol,Series,Date,Prev Close,Open Price,High Price,Low Price,Last Price,Close Price,Average Price,Total Traded Quantity,Turnover ₹,No. of Trades,Deliverable Qty,% Dly Qt to Traded Qty
 ICICIBANK,EQ,07-Oct-2013,930.60,919.30,920.00,893.00,916.65,916.20,904.83,"32,32,202","2,92,45,90,247.20","86,026","11,64,875",36.04
 ICICIBANK,EQ,08-Oct-2013,916.20,947.10,952.40,932.35,934.50,937.10,941.42,"29,24,115","2,75,28,11,721.90","77,478","12,40,284",42.42
 ICICIBANK,EQ,09-Oct-2013,937.10,921.00,955.00,908.00,953.25,950.40,929.25,"45,04,912","4,18,61,93,608.25","1,31,173","18,04,743",40.06

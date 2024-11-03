@@ -1,4 +1,4 @@
-Symbol  ,Series  ,Date  ,Prev Close  ,Open Price  ,High Price  ,Low Price  ,Last Price  ,Close Price  ,Average Price ,Total Traded Quantity  ,Turnover ₹  ,No. of Trades  ,Deliverable Qty  ,% Dly Qt to Traded Qty  
+Symbol,Series,Date,Prev Close,Open Price,High Price,Low Price,Last Price,Close Price,Average Price,Total Traded Quantity,Turnover ₹,No. of Trades,Deliverable Qty,% Dly Qt to Traded Qty
 INDUSINDBK,EQ,07-Oct-2019,"1,265.30","1,275.00","1,276.00","1,215.00","1,245.00","1,241.05","1,241.09","52,12,929","6,46,96,88,307.40","1,45,285","8,21,267",15.75
 INDUSINDBK,EQ,09-Oct-2019,"1,241.05","1,241.00","1,319.00","1,235.60","1,309.50","1,308.65","1,282.42","68,65,376","8,80,42,67,643.50","2,16,675","12,53,079",18.25
 INDUSINDBK,EQ,10-Oct-2019,"1,308.65","1,310.00","1,321.00","1,220.00","1,229.55","1,228.50","1,272.91","1,39,75,918","17,79,01,50,095.70","4,06,438","17,60,815",12.6

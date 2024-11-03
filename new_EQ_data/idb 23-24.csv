@@ -1,4 +1,4 @@
-Symbol  ,Series  ,Date  ,Prev Close  ,Open Price  ,High Price  ,Low Price  ,Last Price  ,Close Price  ,Average Price ,Total Traded Quantity  ,Turnover ₹  ,No. of Trades  ,Deliverable Qty  ,% Dly Qt to Traded Qty  
+Symbol,Series,Date,Prev Close,Open Price,High Price,Low Price,Last Price,Close Price,Average Price,Total Traded Quantity,Turnover ₹,No. of Trades,Deliverable Qty,% Dly Qt to Traded Qty
 INDUSINDBK,EQ,09-Oct-2023,"1,434.80","1,420.10","1,445.00","1,410.00","1,424.10","1,428.55","1,430.69","16,13,546","2,30,84,78,128.70","75,765","6,12,564",37.96
 INDUSINDBK,EQ,10-Oct-2023,"1,428.55","1,434.00","1,436.35","1,412.05","1,418.60","1,420.55","1,422.09","18,74,201","2,66,52,80,214.25","89,909","8,13,506",43.41
 INDUSINDBK,EQ,11-Oct-2023,"1,420.55","1,430.95","1,431.90","1,414.55","1,419.50","1,421.20","1,421.17","18,55,211","2,63,65,74,225.05","74,566","5,63,812",30.39

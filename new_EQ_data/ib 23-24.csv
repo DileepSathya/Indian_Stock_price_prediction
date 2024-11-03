@@ -1,4 +1,4 @@
-Symbol  ,Series  ,Date  ,Prev Close  ,Open Price  ,High Price  ,Low Price  ,Last Price  ,Close Price  ,Average Price ,Total Traded Quantity  ,Turnover ₹  ,No. of Trades  ,Deliverable Qty  ,% Dly Qt to Traded Qty  
+Symbol,Series,Date,Prev Close,Open Price,High Price,Low Price,Last Price,Close Price,Average Price,Total Traded Quantity,Turnover ₹,No. of Trades,Deliverable Qty,% Dly Qt to Traded Qty
 ICICIBANK,EQ,05-Oct-2023,930.05,935.20,943.95,934.55,939.35,940.85,939.94,"1,04,78,856","9,84,95,41,968.90","2,58,254","61,55,130",58.74
 ICICIBANK,EQ,06-Oct-2023,940.85,946.00,946.55,938.00,945.10,945.20,942.83,"63,55,755","5,99,23,81,430.70","2,11,853","38,83,614",61.1
 ICICIBANK,EQ,09-Oct-2023,945.20,940.25,942.05,936.30,939.40,938.60,939.59,"67,25,306","6,31,90,20,565.15","1,64,572","47,66,205",70.87

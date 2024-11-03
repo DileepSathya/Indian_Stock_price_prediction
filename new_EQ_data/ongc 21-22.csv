@@ -1,4 +1,4 @@
-Symbol  ,Series  ,Date  ,Prev Close  ,Open Price  ,High Price  ,Low Price  ,Last Price  ,Close Price  ,Average Price ,Total Traded Quantity  ,Turnover ₹  ,No. of Trades  ,Deliverable Qty  ,% Dly Qt to Traded Qty  
+Symbol,Series,Date,Prev Close,Open Price,High Price,Low Price,Last Price,Close Price,Average Price,Total Traded Quantity,Turnover ₹,No. of Trades,Deliverable Qty,% Dly Qt to Traded Qty
 ONGC,EQ,05-Oct-2021,147.6,150.0,164.6,149.0,163.5,163.65,159.28,"13,12,38,378","20,90,30,35,998.05","4,84,872","2,62,23,250",19.98
 ONGC,EQ,06-Oct-2021,163.65,166.0,172.75,165.8,167.3,168.1,169.24,"10,12,21,817","17,13,07,01,786.05","3,91,592","1,72,77,026",17.07
 ONGC,EQ,07-Oct-2021,168.1,170.15,170.15,159.5,160.6,160.4,163.29,"5,97,69,140","9,75,98,88,793.40","2,51,185","2,77,00,381",46.35

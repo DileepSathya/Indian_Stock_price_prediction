@@ -1,4 +1,4 @@
-Symbol  ,Series  ,Date  ,Prev Close  ,Open Price  ,High Price  ,Low Price  ,Last Price  ,Close Price  ,Average Price ,Total Traded Quantity  ,Turnover ₹  ,No. of Trades  ,Deliverable Qty  ,% Dly Qt to Traded Qty  
+Symbol,Series,Date,Prev Close,Open Price,High Price,Low Price,Last Price,Close Price,Average Price,Total Traded Quantity,Turnover ₹,No. of Trades,Deliverable Qty,% Dly Qt to Traded Qty
 INDUSINDBK,EQ,07-Oct-2011,239.7,247.9,259.9,235.95,245.0,243.35,248.72,"24,07,560","59,87,98,386.45","20,626","8,51,230",35.36
 INDUSINDBK,EQ,10-Oct-2011,243.35,244.75,252.9,241.0,251.5,251.85,248.12,"3,96,475","9,83,71,558.70","8,996","1,89,530",47.8
 INDUSINDBK,EQ,11-Oct-2011,251.85,254.0,257.65,251.5,253.5,253.6,255.43,"5,35,423","13,67,65,522.90","5,817","3,02,356",56.47

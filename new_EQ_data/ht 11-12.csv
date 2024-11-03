@@ -1,4 +1,4 @@
-Symbol  ,Series  ,Date  ,Prev Close  ,Open Price  ,High Price  ,Low Price  ,Last Price  ,Close Price  ,Average Price ,Total Traded Quantity  ,Turnover ₹  ,No. of Trades  ,Deliverable Qty  ,% Dly Qt to Traded Qty  
+Symbol,Series,Date,Prev Close,Open Price,High Price,Low Price,Last Price,Close Price,Average Price,Total Traded Quantity,Turnover ₹,No. of Trades,Deliverable Qty,% Dly Qt to Traded Qty
 HCLTECH,EQ,07-Oct-2011,395.35,407.0,416.0,402.0,405.0,405.35,408.66,"11,28,859","46,13,24,712.15","28,655","6,23,874",55.27
 HCLTECH,EQ,10-Oct-2011,405.35,404.1,415.0,404.1,415.0,413.9,412.23,"8,28,420","34,15,03,687.35","20,638","5,27,219",63.64
 HCLTECH,EQ,11-Oct-2011,413.9,419.65,422.8,401.1,401.7,403.3,409.04,"13,31,695","54,47,15,386.60","29,214","6,20,331",46.58

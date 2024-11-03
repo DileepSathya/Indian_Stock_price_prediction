@@ -1,4 +1,4 @@
-Symbol  ,Series  ,Date  ,Prev Close  ,Open Price  ,High Price  ,Low Price  ,Last Price  ,Close Price  ,Average Price ,Total Traded Quantity  ,Turnover ₹  ,No. of Trades  ,Deliverable Qty  ,% Dly Qt to Traded Qty  
+Symbol,Series,Date,Prev Close,Open Price,High Price,Low Price,Last Price,Close Price,Average Price,Total Traded Quantity,Turnover ₹,No. of Trades,Deliverable Qty,% Dly Qt to Traded Qty
 TATAMOTORS,EQ,05-Oct-2011,146.7,148.2,151.85,146.65,147.5,147.4,149.59,"88,80,985","1,32,84,98,974.65","68,838","18,02,172",20.29
 TATAMOTORS,EQ,07-Oct-2011,147.4,153.05,160.35,153.05,158.05,159.15,157.44,"1,57,20,334","2,47,50,45,062.90","1,23,248","56,50,826",35.95
 TATAMOTORS,EQ,10-Oct-2011,159.15,159.0,172.45,158.9,169.45,170.75,167.23,"2,02,24,167","3,38,21,47,988.80","1,72,718","63,89,475",31.59

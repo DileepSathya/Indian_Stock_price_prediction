@@ -1,4 +1,4 @@
-Symbol  ,Series  ,Date  ,Prev Close  ,Open Price  ,High Price  ,Low Price  ,Last Price  ,Close Price  ,Average Price ,Total Traded Quantity  ,Turnover ₹  ,No. of Trades  ,Deliverable Qty  ,% Dly Qt to Traded Qty  
+Symbol,Series,Date,Prev Close,Open Price,High Price,Low Price,Last Price,Close Price,Average Price,Total Traded Quantity,Turnover ₹,No. of Trades,Deliverable Qty,% Dly Qt to Traded Qty
 VEDL,EQ,05-Oct-2015,83.4,84.0,85.25,82.65,84.45,84.55,84.22,"1,64,63,001","1,38,64,49,476.45","58,719","91,98,009",55.87
 VEDL,EQ,06-Oct-2015,84.55,85.5,87.0,84.25,85.7,85.7,85.64,"1,99,14,503","1,70,54,77,533.90","76,950","1,05,66,925",53.06
 VEDL,EQ,07-Oct-2015,85.7,86.1,92.1,85.2,90.7,90.75,89.72,"3,13,84,886","2,81,57,64,435.80","1,10,747","1,09,78,435",34.98

@@ -1,4 +1,4 @@
-Symbol  ,Series  ,Date  ,Prev Close  ,Open Price  ,High Price  ,Low Price  ,Last Price  ,Close Price  ,Average Price ,Total Traded Quantity  ,Turnover ₹  ,No. of Trades  ,Deliverable Qty  ,% Dly Qt to Traded Qty  
+Symbol,Series,Date,Prev Close,Open Price,High Price,Low Price,Last Price,Close Price,Average Price,Total Traded Quantity,Turnover ₹,No. of Trades,Deliverable Qty,% Dly Qt to Traded Qty
 VEDL,EQ,06-Oct-2022,279.15,282.0,293.6,282.0,292.55,292.4,289.84,"1,69,40,276","4,90,99,51,827.45","1,44,994","51,23,463",30.24
 VEDL,EQ,07-Oct-2022,292.4,292.0,292.5,287.25,291.95,291.9,290.06,"84,99,499","2,46,53,51,454.45","73,534","27,22,627",32.03
 VEDL,EQ,10-Oct-2022,291.9,286.7,297.95,286.5,296.7,297.05,294.88,"1,14,39,140","3,37,31,19,151.05","1,12,940","30,93,335",27.04

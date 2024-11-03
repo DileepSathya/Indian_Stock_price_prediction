@@ -1,4 +1,4 @@
-Symbol  ,Series  ,Date  ,Prev Close  ,Open Price  ,High Price  ,Low Price  ,Last Price  ,Close Price  ,Average Price ,Total Traded Quantity  ,Turnover ₹  ,No. of Trades  ,Deliverable Qty  ,% Dly Qt to Traded Qty  
+Symbol,Series,Date,Prev Close,Open Price,High Price,Low Price,Last Price,Close Price,Average Price,Total Traded Quantity,Turnover ₹,No. of Trades,Deliverable Qty,% Dly Qt to Traded Qty
 BPCL,EQ,06-Oct-2022,311.45,313.05,314.8,309.4,311.0,312.15,312.23,"34,86,803","1,08,86,86,267.40","62,584","16,84,095",48.3
 BPCL,EQ,07-Oct-2022,312.15,310.2,310.9,306.2,307.5,307.4,307.51,"32,18,419","98,97,02,617.00","62,229","13,02,455",40.47
 BPCL,EQ,10-Oct-2022,307.4,306.0,306.6,302.1,304.5,304.65,304.05,"23,65,616","71,92,66,168.25","51,861","8,24,116",34.84

@@ -1,4 +1,4 @@
-Symbol  ,Series  ,Date  ,Prev Close  ,Open Price  ,High Price  ,Low Price  ,Last Price  ,Close Price  ,Average Price ,Total Traded Quantity  ,Turnover ₹  ,No. of Trades  ,Deliverable Qty  ,% Dly Qt to Traded Qty  
+Symbol,Series,Date,Prev Close,Open Price,High Price,Low Price,Last Price,Close Price,Average Price,Total Traded Quantity,Turnover ₹,No. of Trades,Deliverable Qty,% Dly Qt to Traded Qty
 AMBUJACEM,EQ,05-Oct-2018,213.7,213.0,214.25,207.0,208.25,208.45,210.5,"30,07,099","63,29,82,958.40","24,791","18,08,921",60.16
 AMBUJACEM,EQ,08-Oct-2018,208.45,206.45,210.65,202.4,207.55,208.1,205.74,"24,83,769","51,10,05,568.00","43,204","7,82,601",31.51
 AMBUJACEM,EQ,09-Oct-2018,208.1,210.0,211.95,202.45,204.5,204.7,205.95,"17,90,998","36,88,51,453.00","38,665","5,44,729",30.41

@@ -1,4 +1,4 @@
-Symbol  ,Series  ,Date  ,Prev Close  ,Open Price  ,High Price  ,Low Price  ,Last Price  ,Close Price  ,Average Price ,Total Traded Quantity  ,Turnover ₹  ,No. of Trades  ,Deliverable Qty  ,% Dly Qt to Traded Qty  
+Symbol,Series,Date,Prev Close,Open Price,High Price,Low Price,Last Price,Close Price,Average Price,Total Traded Quantity,Turnover ₹,No. of Trades,Deliverable Qty,% Dly Qt to Traded Qty
 AXISBANK,EQ,07-Oct-2019,656.4,660.95,681.9,651.7,668.7,673.45,669.13,"2,15,54,138","14,42,24,71,995.80","1,69,198","1,11,90,248",51.92
 AXISBANK,EQ,09-Oct-2019,673.45,671.9,689.5,664.3,686.95,686.3,677.95,"1,15,37,721","7,82,19,74,755.75","1,53,497","44,53,034",38.6
 AXISBANK,EQ,10-Oct-2019,686.3,680.0,684.3,665.35,674.9,672.95,672.31,"86,79,981","5,83,56,42,476.25","1,29,012","34,00,225",39.17

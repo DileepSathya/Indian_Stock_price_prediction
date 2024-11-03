@@ -1,4 +1,4 @@
-Symbol  ,Series  ,Date  ,Prev Close  ,Open Price  ,High Price  ,Low Price  ,Last Price  ,Close Price  ,Average Price ,Total Traded Quantity  ,Turnover ₹  ,No. of Trades  ,Deliverable Qty  ,% Dly Qt to Traded Qty  
+Symbol,Series,Date,Prev Close,Open Price,High Price,Low Price,Last Price,Close Price,Average Price,Total Traded Quantity,Turnover ₹,No. of Trades,Deliverable Qty,% Dly Qt to Traded Qty
 COALINDIA,EQ,05-Oct-2011,319.9,321.9,327.8,314.55,324.8,324.7,323.23,"66,75,945","2,15,78,53,984.95","99,789","38,08,133",57.04
 COALINDIA,EQ,07-Oct-2011,324.7,334.0,339.9,331.3,338.0,337.55,337.31,"78,03,489","2,63,21,78,694.30","89,316","54,17,377",69.42
 COALINDIA,EQ,10-Oct-2011,337.55,341.0,345.0,330.85,344.4,343.65,339.78,"1,01,70,568","3,45,57,13,809.10","1,02,185","49,97,028",49.13

@@ -1,4 +1,4 @@
-Symbol  ,Series  ,Date  ,Prev Close  ,Open Price  ,High Price  ,Low Price  ,Last Price  ,Close Price  ,Average Price ,Total Traded Quantity  ,Turnover ₹  ,No. of Trades  ,Deliverable Qty  ,% Dly Qt to Traded Qty  
+Symbol,Series,Date,Prev Close,Open Price,High Price,Low Price,Last Price,Close Price,Average Price,Total Traded Quantity,Turnover ₹,No. of Trades,Deliverable Qty,% Dly Qt to Traded Qty
 INFY,EQ,07-Oct-2011,"2,446.95","2,560.00","2,574.90","2,487.65","2,514.00","2,508.70","2,538.65","23,07,216","5,85,72,14,196.20","88,757","13,94,751",60.45
 INFY,EQ,10-Oct-2011,"2,508.70","2,545.00","2,600.90","2,528.40","2,592.80","2,589.95","2,565.39","21,18,304","5,43,42,69,072.80","92,030","11,89,737",56.16
 INFY,EQ,11-Oct-2011,"2,589.95","2,593.40","2,595.00","2,490.00","2,499.30","2,504.55","2,524.68","27,92,406","7,04,99,33,861.95","1,24,891","14,72,289",52.72

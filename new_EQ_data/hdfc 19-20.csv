@@ -1,4 +1,4 @@
-Symbol  ,Series  ,Date  ,Prev Close  ,Open Price  ,High Price  ,Low Price  ,Last Price  ,Close Price  ,Average Price ,Total Traded Quantity  ,Turnover ₹  ,No. of Trades  ,Deliverable Qty  ,% Dly Qt to Traded Qty  
+Symbol,Series,Date,Prev Close,Open Price,High Price,Low Price,Last Price,Close Price,Average Price,Total Traded Quantity,Turnover ₹,No. of Trades,Deliverable Qty,% Dly Qt to Traded Qty
 HDFCBANK,EQ,07-Oct-2019,"1,189.70","1,201.20","1,219.85","1,181.15","1,184.55","1,186.90","1,201.38","1,12,56,610","13,52,34,69,540.25","2,16,482","50,07,897",44.49
 HDFCBANK,EQ,09-Oct-2019,"1,186.90","1,197.10","1,229.90","1,190.00","1,228.20","1,228.15","1,211.14","87,13,635","10,55,34,02,882.70","2,41,068","46,74,399",53.64
 HDFCBANK,EQ,10-Oct-2019,"1,228.15","1,221.80","1,225.95","1,197.20","1,203.00","1,200.55","1,204.54","57,78,429","6,96,03,22,085.70","1,73,146","30,89,486",53.47

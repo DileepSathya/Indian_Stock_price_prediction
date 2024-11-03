@@ -1,4 +1,4 @@
-Symbol  ,Series  ,Date  ,Prev Close  ,Open Price  ,High Price  ,Low Price  ,Last Price  ,Close Price  ,Average Price ,Total Traded Quantity  ,Turnover ₹  ,No. of Trades  ,Deliverable Qty  ,% Dly Qt to Traded Qty  
+Symbol,Series,Date,Prev Close,Open Price,High Price,Low Price,Last Price,Close Price,Average Price,Total Traded Quantity,Turnover ₹,No. of Trades,Deliverable Qty,% Dly Qt to Traded Qty
 ICICIBANK,EQ,07-Oct-2019,413.9,415.1,423.5,411.5,416.1,416.1,418.29,"2,19,33,703","9,17,46,23,042.80","1,51,810","84,95,585",38.73
 ICICIBANK,EQ,09-Oct-2019,416.1,420.25,438.4,417.1,436.5,436.7,428.51,"3,45,33,981","14,79,82,67,533.70","2,04,220","1,48,52,469",43.01
 ICICIBANK,EQ,10-Oct-2019,436.7,430.0,431.5,420.5,424.5,423.7,424.8,"1,90,74,005","8,10,26,11,371.10","1,64,265","76,80,646",40.27

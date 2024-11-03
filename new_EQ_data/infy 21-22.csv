@@ -1,4 +1,4 @@
-Symbol  ,Series  ,Date  ,Prev Close  ,Open Price  ,High Price  ,Low Price  ,Last Price  ,Close Price  ,Average Price ,Total Traded Quantity  ,Turnover ₹  ,No. of Trades  ,Deliverable Qty  ,% Dly Qt to Traded Qty  
+Symbol,Series,Date,Prev Close,Open Price,High Price,Low Price,Last Price,Close Price,Average Price,Total Traded Quantity,Turnover ₹,No. of Trades,Deliverable Qty,% Dly Qt to Traded Qty
 INFY,EQ,07-Oct-2021,"1,673.55","1,687.00","1,704.20","1,676.65","1,690.35","1,691.00","1,693.19","54,76,108","9,27,21,07,761.25","1,42,352","38,55,195",70.4
 INFY,EQ,08-Oct-2021,"1,691.00","1,705.25","1,731.50","1,698.40","1,723.85","1,723.85","1,719.42","47,38,376","8,14,72,61,439.50","2,23,183","24,84,109",52.43
 INFY,EQ,11-Oct-2021,"1,723.85","1,682.00","1,730.00","1,663.70","1,693.00","1,690.95","1,698.64","88,40,633","15,01,70,23,820.95","2,64,208","47,63,503",53.88

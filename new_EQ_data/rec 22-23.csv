@@ -1,4 +1,4 @@
-Symbol  ,Series  ,Date  ,Prev Close  ,Open Price  ,High Price  ,Low Price  ,Last Price  ,Close Price  ,Average Price ,Total Traded Quantity  ,Turnover ₹  ,No. of Trades  ,Deliverable Qty  ,% Dly Qt to Traded Qty  
+Symbol,Series,Date,Prev Close,Open Price,High Price,Low Price,Last Price,Close Price,Average Price,Total Traded Quantity,Turnover ₹,No. of Trades,Deliverable Qty,% Dly Qt to Traded Qty
 RECLTD,EQ,06-Oct-2022,93.65,94.8,95.75,94.1,95.75,95.5,95.06,"62,23,294","59,15,99,302.25","28,253","41,67,530",66.97
 RECLTD,EQ,07-Oct-2022,95.5,95.5,95.5,94.4,95.1,95.15,94.88,"36,03,038","34,18,65,760.30","25,365","18,77,468",52.11
 RECLTD,EQ,10-Oct-2022,95.15,94.0,94.45,92.8,93.05,93.0,93.26,"72,57,911","67,68,62,038.85","28,608","44,92,936",61.9

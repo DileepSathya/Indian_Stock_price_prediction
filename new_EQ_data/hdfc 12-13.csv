@@ -1,4 +1,4 @@
-Symbol  ,Series  ,Date  ,Prev Close  ,Open Price  ,High Price  ,Low Price  ,Last Price  ,Close Price  ,Average Price ,Total Traded Quantity  ,Turnover ₹  ,No. of Trades  ,Deliverable Qty  ,% Dly Qt to Traded Qty  
+Symbol,Series,Date,Prev Close,Open Price,High Price,Low Price,Last Price,Close Price,Average Price,Total Traded Quantity,Turnover ₹,No. of Trades,Deliverable Qty,% Dly Qt to Traded Qty
 HDFCBANK,EQ,08-Oct-2012,622.4,623.9,623.9,616.55,621.5,620.7,620.65,"23,22,668","1,44,15,69,274.35","60,748","17,60,470",75.8
 HDFCBANK,EQ,09-Oct-2012,620.7,624.95,630.5,622.0,624.25,625.75,626.67,"10,77,692","67,53,55,639.40","26,034","6,63,405",61.56
 HDFCBANK,EQ,10-Oct-2012,625.75,624.0,624.0,616.2,617.7,617.95,618.89,"10,73,754","66,45,34,139.80","32,742","6,92,975",64.54

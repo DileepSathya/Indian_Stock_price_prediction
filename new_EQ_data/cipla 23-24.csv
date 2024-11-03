@@ -1,4 +1,4 @@
-Symbol  ,Series  ,Date  ,Prev Close  ,Open Price  ,High Price  ,Low Price  ,Last Price  ,Close Price  ,Average Price ,Total Traded Quantity  ,Turnover ₹  ,No. of Trades  ,Deliverable Qty  ,% Dly Qt to Traded Qty  
+Symbol,Series,Date,Prev Close,Open Price,High Price,Low Price,Last Price,Close Price,Average Price,Total Traded Quantity,Turnover ₹,No. of Trades,Deliverable Qty,% Dly Qt to Traded Qty
 CIPLA,EQ,09-Oct-2023,"1,163.00","1,159.00","1,166.85","1,151.65","1,159.65","1,159.50","1,160.13","8,22,110","95,37,52,979.45","36,596","4,96,802",60.43
 CIPLA,EQ,10-Oct-2023,"1,159.50","1,160.10","1,163.60","1,150.50","1,153.65","1,155.05","1,154.56","8,22,199","94,92,76,480.25","50,367","5,04,758",61.39
 CIPLA,EQ,11-Oct-2023,"1,155.05","1,151.00","1,175.00","1,146.50","1,171.05","1,171.95","1,168.81","14,65,239","1,71,25,92,882.55","66,942","8,97,431",61.25

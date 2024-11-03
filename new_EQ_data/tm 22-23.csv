@@ -1,4 +1,4 @@
-Symbol  ,Series  ,Date  ,Prev Close  ,Open Price  ,High Price  ,Low Price  ,Last Price  ,Close Price  ,Average Price ,Total Traded Quantity  ,Turnover ₹  ,No. of Trades  ,Deliverable Qty  ,% Dly Qt to Traded Qty  
+Symbol,Series,Date,Prev Close,Open Price,High Price,Low Price,Last Price,Close Price,Average Price,Total Traded Quantity,Turnover ₹,No. of Trades,Deliverable Qty,% Dly Qt to Traded Qty
 TATAMOTORS,EQ,06-Oct-2022,407.9,409.6,417.65,409.5,413.4,414.1,414.77,"1,27,71,199","5,29,70,81,398.40","1,59,765","34,12,533",26.72
 TATAMOTORS,EQ,07-Oct-2022,414.1,413.4,414.0,408.7,413.0,412.15,411.67,"1,06,70,854","4,39,28,89,228.65","1,17,622","20,60,289",19.31
 TATAMOTORS,EQ,10-Oct-2022,412.15,403.4,403.4,393.05,396.55,395.95,396.05,"3,29,14,630","13,03,58,76,368.35","3,83,835","1,22,62,312",37.25
